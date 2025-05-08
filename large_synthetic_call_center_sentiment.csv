@@ -1,0 +1,501 @@
+report_id,transcript,sentiment
+1,"Quick and efficient service, thank you!",positive
+2,Prompt assistance and professional handling.,positive
+3,"I got some answers, but I’m still unclear about next steps.",neutral
+4,Service was acceptable but not outstanding.,neutral
+5,"Interaction was okay, but not very helpful.",neutral
+6,Amazing customer experience — highly recommend.,positive
+7,Very rude agent who didn't understand the issue.,negative
+8,"I got some answers, but I’m still unclear about next steps.",neutral
+9,I received conflicting information from different agents.,negative
+10,Still waiting for a callback. Very unprofessional.,negative
+11,The call dropped and no one called back.,negative
+12,I had to wait for over 30 minutes before getting any help.,negative
+13,Service was acceptable but not outstanding.,neutral
+14,Service was acceptable but not outstanding.,neutral
+15,I had to wait for over 30 minutes before getting any help.,negative
+16,"Quick and efficient service, thank you!",positive
+17,I had to wait for over 30 minutes before getting any help.,negative
+18,The agent was very helpful and resolved my issue quickly.,positive
+19,Absolutely terrible experience. I'm very dissatisfied.,negative
+20,"Interaction was okay, but not very helpful.",neutral
+21,"I got some answers, but I’m still unclear about next steps.",neutral
+22,This is the third time I’ve contacted support for the same issue.,negative
+23,Extremely poor handling of my request.,negative
+24,Still waiting for a callback. Very unprofessional.,negative
+25,"The process was confusing, but the staff tried to help.",neutral
+26,Service was acceptable but not outstanding.,neutral
+27,"I got some answers, but I’m still unclear about next steps.",neutral
+28,Very satisfied with the resolution provided today.,positive
+29,Issue was solved on the first try. Great job!,positive
+30,Issue was solved on the first try. Great job!,positive
+31,No one knew how to help. I was transferred multiple times.,negative
+32,I received conflicting information from different agents.,negative
+33,The agent was very helpful and resolved my issue quickly.,positive
+34,"Agent followed protocol, but issue remains unresolved.",neutral
+35,Prompt assistance and professional handling.,positive
+36,"The issue was partially resolved, but I had to call again.",neutral
+37,The outcome was neither good nor bad.,neutral
+38,This is the third time I’ve contacted support for the same issue.,negative
+39,Prompt assistance and professional handling.,positive
+40,"Interaction was okay, but not very helpful.",neutral
+41,I’m impressed by how smoothly everything went.,positive
+42,"Interaction was okay, but not very helpful.",neutral
+43,The agent was very helpful and resolved my issue quickly.,positive
+44,"Interaction was okay, but not very helpful.",neutral
+45,The representative was knowledgeable and kind.,positive
+46,The representative was knowledgeable and kind.,positive
+47,"Satisfactory, but could have been better.",neutral
+48,I received conflicting information from different agents.,negative
+49,"Agent followed protocol, but issue remains unresolved.",neutral
+50,Service was acceptable but not outstanding.,neutral
+51,The agent was very helpful and resolved my issue quickly.,positive
+52,I received conflicting information from different agents.,negative
+53,Very rude agent who didn't understand the issue.,negative
+54,"The representative was kind, but couldn’t fix the issue.",neutral
+55,"The process was confusing, but the staff tried to help.",neutral
+56,Extremely poor handling of my request.,negative
+57,I’m impressed by how smoothly everything went.,positive
+58,The outcome was neither good nor bad.,neutral
+59,I had to wait for over 30 minutes before getting any help.,negative
+60,"The process was confusing, but the staff tried to help.",neutral
+61,Excellent support. Everything went smoothly.,positive
+62,I’m indifferent about the support experience.,neutral
+63,I had to wait for over 30 minutes before getting any help.,negative
+64,Very satisfied with the resolution provided today.,positive
+65,Still waiting for a callback. Very unprofessional.,negative
+66,Issue was solved on the first try. Great job!,positive
+67,Very satisfied with the resolution provided today.,positive
+68,"Satisfactory, but could have been better.",neutral
+69,Excellent support. Everything went smoothly.,positive
+70,The agent was very helpful and resolved my issue quickly.,positive
+71,The representative was knowledgeable and kind.,positive
+72,No one knew how to help. I was transferred multiple times.,negative
+73,"Satisfactory, but could have been better.",neutral
+74,"I got some answers, but I’m still unclear about next steps.",neutral
+75,"Satisfactory, but could have been better.",neutral
+76,Very satisfied with the resolution provided today.,positive
+77,I received conflicting information from different agents.,negative
+78,This is the third time I’ve contacted support for the same issue.,negative
+79,"I got some answers, but I’m still unclear about next steps.",neutral
+80,Nothing was resolved despite repeated calls.,negative
+81,The representative was knowledgeable and kind.,positive
+82,I’m impressed by how smoothly everything went.,positive
+83,Excellent support. Everything went smoothly.,positive
+84,Very satisfied with the resolution provided today.,positive
+85,This is the third time I’ve contacted support for the same issue.,negative
+86,The agent was very helpful and resolved my issue quickly.,positive
+87,Issue was solved on the first try. Great job!,positive
+88,Still waiting for a callback. Very unprofessional.,negative
+89,I’m indifferent about the support experience.,neutral
+90,I received conflicting information from different agents.,negative
+91,I’m indifferent about the support experience.,neutral
+92,"The process was confusing, but the staff tried to help.",neutral
+93,"The process was confusing, but the staff tried to help.",neutral
+94,No one knew how to help. I was transferred multiple times.,negative
+95,I had to wait for over 30 minutes before getting any help.,negative
+96,I had to wait for over 30 minutes before getting any help.,negative
+97,I’m indifferent about the support experience.,neutral
+98,The outcome was neither good nor bad.,neutral
+99,"Quick and efficient service, thank you!",positive
+100,The call dropped and no one called back.,negative
+101,Excellent support. Everything went smoothly.,positive
+102,"I got some answers, but I’m still unclear about next steps.",neutral
+103,The agent was very helpful and resolved my issue quickly.,positive
+104,Absolutely terrible experience. I'm very dissatisfied.,negative
+105,The call dropped and no one called back.,negative
+106,This is the third time I’ve contacted support for the same issue.,negative
+107,"The representative was kind, but couldn’t fix the issue.",neutral
+108,"Satisfactory, but could have been better.",neutral
+109,"Quick and efficient service, thank you!",positive
+110,Staff was courteous and effective.,positive
+111,I’m impressed by how smoothly everything went.,positive
+112,Amazing customer experience — highly recommend.,positive
+113,Still waiting for a callback. Very unprofessional.,negative
+114,Staff was courteous and effective.,positive
+115,Amazing customer experience — highly recommend.,positive
+116,Nothing was resolved despite repeated calls.,negative
+117,"Quick and efficient service, thank you!",positive
+118,Very satisfied with the resolution provided today.,positive
+119,I had to wait for over 30 minutes before getting any help.,negative
+120,The agent was very helpful and resolved my issue quickly.,positive
+121,Very satisfied with the resolution provided today.,positive
+122,The outcome was neither good nor bad.,neutral
+123,"Interaction was okay, but not very helpful.",neutral
+124,"Interaction was okay, but not very helpful.",neutral
+125,Very rude agent who didn't understand the issue.,negative
+126,"Agent followed protocol, but issue remains unresolved.",neutral
+127,Service was acceptable but not outstanding.,neutral
+128,Still waiting for a callback. Very unprofessional.,negative
+129,"Satisfactory, but could have been better.",neutral
+130,The agent was very helpful and resolved my issue quickly.,positive
+131,Staff was courteous and effective.,positive
+132,Service was acceptable but not outstanding.,neutral
+133,Very satisfied with the resolution provided today.,positive
+134,Excellent support. Everything went smoothly.,positive
+135,"The process was confusing, but the staff tried to help.",neutral
+136,"Satisfactory, but could have been better.",neutral
+137,"Interaction was okay, but not very helpful.",neutral
+138,I had to wait for over 30 minutes before getting any help.,negative
+139,Amazing customer experience — highly recommend.,positive
+140,I’m impressed by how smoothly everything went.,positive
+141,I’m impressed by how smoothly everything went.,positive
+142,Very satisfied with the resolution provided today.,positive
+143,Staff was courteous and effective.,positive
+144,Absolutely terrible experience. I'm very dissatisfied.,negative
+145,Issue was solved on the first try. Great job!,positive
+146,Staff was courteous and effective.,positive
+147,Extremely poor handling of my request.,negative
+148,The outcome was neither good nor bad.,neutral
+149,The agent was very helpful and resolved my issue quickly.,positive
+150,Still waiting for a callback. Very unprofessional.,negative
+151,Absolutely terrible experience. I'm very dissatisfied.,negative
+152,I received conflicting information from different agents.,negative
+153,Extremely poor handling of my request.,negative
+154,"The issue was partially resolved, but I had to call again.",neutral
+155,Service was acceptable but not outstanding.,neutral
+156,"The issue was partially resolved, but I had to call again.",neutral
+157,Prompt assistance and professional handling.,positive
+158,Very satisfied with the resolution provided today.,positive
+159,I had to wait for over 30 minutes before getting any help.,negative
+160,I’m indifferent about the support experience.,neutral
+161,"I got some answers, but I’m still unclear about next steps.",neutral
+162,"I got some answers, but I’m still unclear about next steps.",neutral
+163,No one knew how to help. I was transferred multiple times.,negative
+164,I’m impressed by how smoothly everything went.,positive
+165,The call dropped and no one called back.,negative
+166,The call dropped and no one called back.,negative
+167,Absolutely terrible experience. I'm very dissatisfied.,negative
+168,I’m indifferent about the support experience.,neutral
+169,I had to wait for over 30 minutes before getting any help.,negative
+170,"Quick and efficient service, thank you!",positive
+171,I had to wait for over 30 minutes before getting any help.,negative
+172,The outcome was neither good nor bad.,neutral
+173,"Agent followed protocol, but issue remains unresolved.",neutral
+174,Absolutely terrible experience. I'm very dissatisfied.,negative
+175,The call dropped and no one called back.,negative
+176,The agent was very helpful and resolved my issue quickly.,positive
+177,"The issue was partially resolved, but I had to call again.",neutral
+178,Extremely poor handling of my request.,negative
+179,Service was acceptable but not outstanding.,neutral
+180,I’m indifferent about the support experience.,neutral
+181,Nothing was resolved despite repeated calls.,negative
+182,Absolutely terrible experience. I'm very dissatisfied.,negative
+183,Absolutely terrible experience. I'm very dissatisfied.,negative
+184,I’m indifferent about the support experience.,neutral
+185,I received conflicting information from different agents.,negative
+186,Absolutely terrible experience. I'm very dissatisfied.,negative
+187,Still waiting for a callback. Very unprofessional.,negative
+188,I’m impressed by how smoothly everything went.,positive
+189,Issue was solved on the first try. Great job!,positive
+190,Service was acceptable but not outstanding.,neutral
+191,Extremely poor handling of my request.,negative
+192,The call dropped and no one called back.,negative
+193,The outcome was neither good nor bad.,neutral
+194,No one knew how to help. I was transferred multiple times.,negative
+195,The call dropped and no one called back.,negative
+196,Very rude agent who didn't understand the issue.,negative
+197,Extremely poor handling of my request.,negative
+198,Issue was solved on the first try. Great job!,positive
+199,"Agent followed protocol, but issue remains unresolved.",neutral
+200,Absolutely terrible experience. I'm very dissatisfied.,negative
+201,"Quick and efficient service, thank you!",positive
+202,"Agent followed protocol, but issue remains unresolved.",neutral
+203,This is the third time I’ve contacted support for the same issue.,negative
+204,Issue was solved on the first try. Great job!,positive
+205,"The issue was partially resolved, but I had to call again.",neutral
+206,"I got some answers, but I’m still unclear about next steps.",neutral
+207,"I got some answers, but I’m still unclear about next steps.",neutral
+208,Prompt assistance and professional handling.,positive
+209,"The process was confusing, but the staff tried to help.",neutral
+210,Extremely poor handling of my request.,negative
+211,Staff was courteous and effective.,positive
+212,Issue was solved on the first try. Great job!,positive
+213,I had to wait for over 30 minutes before getting any help.,negative
+214,The call dropped and no one called back.,negative
+215,I’m impressed by how smoothly everything went.,positive
+216,I’m impressed by how smoothly everything went.,positive
+217,"Agent followed protocol, but issue remains unresolved.",neutral
+218,"Satisfactory, but could have been better.",neutral
+219,Very satisfied with the resolution provided today.,positive
+220,I’m indifferent about the support experience.,neutral
+221,The agent was very helpful and resolved my issue quickly.,positive
+222,The call dropped and no one called back.,negative
+223,"Satisfactory, but could have been better.",neutral
+224,No one knew how to help. I was transferred multiple times.,negative
+225,"Satisfactory, but could have been better.",neutral
+226,I had to wait for over 30 minutes before getting any help.,negative
+227,No one knew how to help. I was transferred multiple times.,negative
+228,"The issue was partially resolved, but I had to call again.",neutral
+229,Very rude agent who didn't understand the issue.,negative
+230,Amazing customer experience — highly recommend.,positive
+231,Amazing customer experience — highly recommend.,positive
+232,This is the third time I’ve contacted support for the same issue.,negative
+233,Still waiting for a callback. Very unprofessional.,negative
+234,The agent was very helpful and resolved my issue quickly.,positive
+235,Issue was solved on the first try. Great job!,positive
+236,Staff was courteous and effective.,positive
+237,"Satisfactory, but could have been better.",neutral
+238,"The process was confusing, but the staff tried to help.",neutral
+239,The call dropped and no one called back.,negative
+240,Excellent support. Everything went smoothly.,positive
+241,The representative was knowledgeable and kind.,positive
+242,Still waiting for a callback. Very unprofessional.,negative
+243,Excellent support. Everything went smoothly.,positive
+244,Very satisfied with the resolution provided today.,positive
+245,Extremely poor handling of my request.,negative
+246,"I got some answers, but I’m still unclear about next steps.",neutral
+247,The outcome was neither good nor bad.,neutral
+248,Absolutely terrible experience. I'm very dissatisfied.,negative
+249,I received conflicting information from different agents.,negative
+250,Very rude agent who didn't understand the issue.,negative
+251,"Interaction was okay, but not very helpful.",neutral
+252,Staff was courteous and effective.,positive
+253,This is the third time I’ve contacted support for the same issue.,negative
+254,Very satisfied with the resolution provided today.,positive
+255,"Satisfactory, but could have been better.",neutral
+256,Still waiting for a callback. Very unprofessional.,negative
+257,Still waiting for a callback. Very unprofessional.,negative
+258,Absolutely terrible experience. I'm very dissatisfied.,negative
+259,"Interaction was okay, but not very helpful.",neutral
+260,Excellent support. Everything went smoothly.,positive
+261,Prompt assistance and professional handling.,positive
+262,Nothing was resolved despite repeated calls.,negative
+263,"The process was confusing, but the staff tried to help.",neutral
+264,"Agent followed protocol, but issue remains unresolved.",neutral
+265,The outcome was neither good nor bad.,neutral
+266,Very satisfied with the resolution provided today.,positive
+267,The outcome was neither good nor bad.,neutral
+268,"The process was confusing, but the staff tried to help.",neutral
+269,"I got some answers, but I’m still unclear about next steps.",neutral
+270,"The issue was partially resolved, but I had to call again.",neutral
+271,Still waiting for a callback. Very unprofessional.,negative
+272,"The issue was partially resolved, but I had to call again.",neutral
+273,The agent was very helpful and resolved my issue quickly.,positive
+274,Nothing was resolved despite repeated calls.,negative
+275,Still waiting for a callback. Very unprofessional.,negative
+276,Absolutely terrible experience. I'm very dissatisfied.,negative
+277,Still waiting for a callback. Very unprofessional.,negative
+278,"Quick and efficient service, thank you!",positive
+279,"Quick and efficient service, thank you!",positive
+280,Very rude agent who didn't understand the issue.,negative
+281,Amazing customer experience — highly recommend.,positive
+282,The agent was very helpful and resolved my issue quickly.,positive
+283,Absolutely terrible experience. I'm very dissatisfied.,negative
+284,Absolutely terrible experience. I'm very dissatisfied.,negative
+285,"Agent followed protocol, but issue remains unresolved.",neutral
+286,"Interaction was okay, but not very helpful.",neutral
+287,Amazing customer experience — highly recommend.,positive
+288,"I got some answers, but I’m still unclear about next steps.",neutral
+289,Absolutely terrible experience. I'm very dissatisfied.,negative
+290,"Satisfactory, but could have been better.",neutral
+291,The outcome was neither good nor bad.,neutral
+292,I’m impressed by how smoothly everything went.,positive
+293,No one knew how to help. I was transferred multiple times.,negative
+294,Amazing customer experience — highly recommend.,positive
+295,I received conflicting information from different agents.,negative
+296,"The issue was partially resolved, but I had to call again.",neutral
+297,Staff was courteous and effective.,positive
+298,Prompt assistance and professional handling.,positive
+299,Very satisfied with the resolution provided today.,positive
+300,Issue was solved on the first try. Great job!,positive
+301,"Satisfactory, but could have been better.",neutral
+302,Very satisfied with the resolution provided today.,positive
+303,"Interaction was okay, but not very helpful.",neutral
+304,"Interaction was okay, but not very helpful.",neutral
+305,The representative was knowledgeable and kind.,positive
+306,"The process was confusing, but the staff tried to help.",neutral
+307,Amazing customer experience — highly recommend.,positive
+308,I received conflicting information from different agents.,negative
+309,"Quick and efficient service, thank you!",positive
+310,Still waiting for a callback. Very unprofessional.,negative
+311,"The issue was partially resolved, but I had to call again.",neutral
+312,Very rude agent who didn't understand the issue.,negative
+313,"Quick and efficient service, thank you!",positive
+314,The agent was very helpful and resolved my issue quickly.,positive
+315,The agent was very helpful and resolved my issue quickly.,positive
+316,Absolutely terrible experience. I'm very dissatisfied.,negative
+317,The agent was very helpful and resolved my issue quickly.,positive
+318,The agent was very helpful and resolved my issue quickly.,positive
+319,"Agent followed protocol, but issue remains unresolved.",neutral
+320,I’m indifferent about the support experience.,neutral
+321,"Quick and efficient service, thank you!",positive
+322,No one knew how to help. I was transferred multiple times.,negative
+323,The agent was very helpful and resolved my issue quickly.,positive
+324,The agent was very helpful and resolved my issue quickly.,positive
+325,"The issue was partially resolved, but I had to call again.",neutral
+326,I had to wait for over 30 minutes before getting any help.,negative
+327,Extremely poor handling of my request.,negative
+328,Still waiting for a callback. Very unprofessional.,negative
+329,I’m impressed by how smoothly everything went.,positive
+330,Absolutely terrible experience. I'm very dissatisfied.,negative
+331,"Quick and efficient service, thank you!",positive
+332,Very satisfied with the resolution provided today.,positive
+333,The call dropped and no one called back.,negative
+334,Amazing customer experience — highly recommend.,positive
+335,"Interaction was okay, but not very helpful.",neutral
+336,The outcome was neither good nor bad.,neutral
+337,"Agent followed protocol, but issue remains unresolved.",neutral
+338,Staff was courteous and effective.,positive
+339,"I got some answers, but I’m still unclear about next steps.",neutral
+340,The representative was knowledgeable and kind.,positive
+341,I’m indifferent about the support experience.,neutral
+342,Still waiting for a callback. Very unprofessional.,negative
+343,I had to wait for over 30 minutes before getting any help.,negative
+344,Prompt assistance and professional handling.,positive
+345,Service was acceptable but not outstanding.,neutral
+346,I had to wait for over 30 minutes before getting any help.,negative
+347,This is the third time I’ve contacted support for the same issue.,negative
+348,"The representative was kind, but couldn’t fix the issue.",neutral
+349,Issue was solved on the first try. Great job!,positive
+350,"Interaction was okay, but not very helpful.",neutral
+351,"The process was confusing, but the staff tried to help.",neutral
+352,I’m indifferent about the support experience.,neutral
+353,Nothing was resolved despite repeated calls.,negative
+354,"I got some answers, but I’m still unclear about next steps.",neutral
+355,"The representative was kind, but couldn’t fix the issue.",neutral
+356,Issue was solved on the first try. Great job!,positive
+357,"I got some answers, but I’m still unclear about next steps.",neutral
+358,Absolutely terrible experience. I'm very dissatisfied.,negative
+359,Still waiting for a callback. Very unprofessional.,negative
+360,The agent was very helpful and resolved my issue quickly.,positive
+361,Prompt assistance and professional handling.,positive
+362,"The representative was kind, but couldn’t fix the issue.",neutral
+363,The agent was very helpful and resolved my issue quickly.,positive
+364,Nothing was resolved despite repeated calls.,negative
+365,Prompt assistance and professional handling.,positive
+366,Absolutely terrible experience. I'm very dissatisfied.,negative
+367,Still waiting for a callback. Very unprofessional.,negative
+368,Very satisfied with the resolution provided today.,positive
+369,"The issue was partially resolved, but I had to call again.",neutral
+370,I received conflicting information from different agents.,negative
+371,The agent was very helpful and resolved my issue quickly.,positive
+372,No one knew how to help. I was transferred multiple times.,negative
+373,Nothing was resolved despite repeated calls.,negative
+374,Extremely poor handling of my request.,negative
+375,"Quick and efficient service, thank you!",positive
+376,I had to wait for over 30 minutes before getting any help.,negative
+377,I had to wait for over 30 minutes before getting any help.,negative
+378,Service was acceptable but not outstanding.,neutral
+379,"Quick and efficient service, thank you!",positive
+380,Nothing was resolved despite repeated calls.,negative
+381,I’m indifferent about the support experience.,neutral
+382,"Agent followed protocol, but issue remains unresolved.",neutral
+383,Very rude agent who didn't understand the issue.,negative
+384,I’m impressed by how smoothly everything went.,positive
+385,The call dropped and no one called back.,negative
+386,The representative was knowledgeable and kind.,positive
+387,Staff was courteous and effective.,positive
+388,I’m impressed by how smoothly everything went.,positive
+389,Very rude agent who didn't understand the issue.,negative
+390,The representative was knowledgeable and kind.,positive
+391,I received conflicting information from different agents.,negative
+392,"The issue was partially resolved, but I had to call again.",neutral
+393,"The process was confusing, but the staff tried to help.",neutral
+394,This is the third time I’ve contacted support for the same issue.,negative
+395,Extremely poor handling of my request.,negative
+396,The outcome was neither good nor bad.,neutral
+397,I’m indifferent about the support experience.,neutral
+398,Service was acceptable but not outstanding.,neutral
+399,"Satisfactory, but could have been better.",neutral
+400,I had to wait for over 30 minutes before getting any help.,negative
+401,Very satisfied with the resolution provided today.,positive
+402,I’m impressed by how smoothly everything went.,positive
+403,Service was acceptable but not outstanding.,neutral
+404,Absolutely terrible experience. I'm very dissatisfied.,negative
+405,This is the third time I’ve contacted support for the same issue.,negative
+406,I’m impressed by how smoothly everything went.,positive
+407,The agent was very helpful and resolved my issue quickly.,positive
+408,"The process was confusing, but the staff tried to help.",neutral
+409,I had to wait for over 30 minutes before getting any help.,negative
+410,Prompt assistance and professional handling.,positive
+411,Staff was courteous and effective.,positive
+412,I’m impressed by how smoothly everything went.,positive
+413,No one knew how to help. I was transferred multiple times.,negative
+414,The outcome was neither good nor bad.,neutral
+415,This is the third time I’ve contacted support for the same issue.,negative
+416,"I got some answers, but I’m still unclear about next steps.",neutral
+417,Amazing customer experience — highly recommend.,positive
+418,I received conflicting information from different agents.,negative
+419,Absolutely terrible experience. I'm very dissatisfied.,negative
+420,Service was acceptable but not outstanding.,neutral
+421,Service was acceptable but not outstanding.,neutral
+422,Excellent support. Everything went smoothly.,positive
+423,The call dropped and no one called back.,negative
+424,"Interaction was okay, but not very helpful.",neutral
+425,Prompt assistance and professional handling.,positive
+426,This is the third time I’ve contacted support for the same issue.,negative
+427,"The representative was kind, but couldn’t fix the issue.",neutral
+428,I’m indifferent about the support experience.,neutral
+429,Very satisfied with the resolution provided today.,positive
+430,The representative was knowledgeable and kind.,positive
+431,"The issue was partially resolved, but I had to call again.",neutral
+432,"The issue was partially resolved, but I had to call again.",neutral
+433,I received conflicting information from different agents.,negative
+434,"Agent followed protocol, but issue remains unresolved.",neutral
+435,"Satisfactory, but could have been better.",neutral
+436,"Satisfactory, but could have been better.",neutral
+437,Service was acceptable but not outstanding.,neutral
+438,Prompt assistance and professional handling.,positive
+439,Prompt assistance and professional handling.,positive
+440,"The process was confusing, but the staff tried to help.",neutral
+441,Service was acceptable but not outstanding.,neutral
+442,Very rude agent who didn't understand the issue.,negative
+443,The representative was knowledgeable and kind.,positive
+444,Still waiting for a callback. Very unprofessional.,negative
+445,I received conflicting information from different agents.,negative
+446,The call dropped and no one called back.,negative
+447,"The representative was kind, but couldn’t fix the issue.",neutral
+448,"I got some answers, but I’m still unclear about next steps.",neutral
+449,No one knew how to help. I was transferred multiple times.,negative
+450,I’m indifferent about the support experience.,neutral
+451,Still waiting for a callback. Very unprofessional.,negative
+452,I received conflicting information from different agents.,negative
+453,Very rude agent who didn't understand the issue.,negative
+454,The agent was very helpful and resolved my issue quickly.,positive
+455,This is the third time I’ve contacted support for the same issue.,negative
+456,"Quick and efficient service, thank you!",positive
+457,"Agent followed protocol, but issue remains unresolved.",neutral
+458,Excellent support. Everything went smoothly.,positive
+459,"I got some answers, but I’m still unclear about next steps.",neutral
+460,Excellent support. Everything went smoothly.,positive
+461,Amazing customer experience — highly recommend.,positive
+462,"The representative was kind, but couldn’t fix the issue.",neutral
+463,The outcome was neither good nor bad.,neutral
+464,No one knew how to help. I was transferred multiple times.,negative
+465,I received conflicting information from different agents.,negative
+466,No one knew how to help. I was transferred multiple times.,negative
+467,Issue was solved on the first try. Great job!,positive
+468,The outcome was neither good nor bad.,neutral
+469,Amazing customer experience — highly recommend.,positive
+470,Very rude agent who didn't understand the issue.,negative
+471,Amazing customer experience — highly recommend.,positive
+472,"Quick and efficient service, thank you!",positive
+473,"I got some answers, but I’m still unclear about next steps.",neutral
+474,"The process was confusing, but the staff tried to help.",neutral
+475,I had to wait for over 30 minutes before getting any help.,negative
+476,I’m indifferent about the support experience.,neutral
+477,Excellent support. Everything went smoothly.,positive
+478,"The issue was partially resolved, but I had to call again.",neutral
+479,"Interaction was okay, but not very helpful.",neutral
+480,Issue was solved on the first try. Great job!,positive
+481,Excellent support. Everything went smoothly.,positive
+482,Still waiting for a callback. Very unprofessional.,negative
+483,Very satisfied with the resolution provided today.,positive
+484,The agent was very helpful and resolved my issue quickly.,positive
+485,I’m indifferent about the support experience.,neutral
+486,The agent was very helpful and resolved my issue quickly.,positive
+487,"Agent followed protocol, but issue remains unresolved.",neutral
+488,Excellent support. Everything went smoothly.,positive
+489,Absolutely terrible experience. I'm very dissatisfied.,negative
+490,The outcome was neither good nor bad.,neutral
+491,Very rude agent who didn't understand the issue.,negative
+492,No one knew how to help. I was transferred multiple times.,negative
+493,The representative was knowledgeable and kind.,positive
+494,I received conflicting information from different agents.,negative
+495,I received conflicting information from different agents.,negative
+496,I’m impressed by how smoothly everything went.,positive
+497,Very satisfied with the resolution provided today.,positive
+498,Nothing was resolved despite repeated calls.,negative
+499,"The issue was partially resolved, but I had to call again.",neutral
+500,Very rude agent who didn't understand the issue.,negative
